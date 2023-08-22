@@ -8,11 +8,11 @@ setup(
     author="David W. Romero",
     license="MIT",
     packages=[
-        "wavelet_networks",
-        "wavelet_networks.bsplines",
-        "wavelet_networks.groups",
-        "wavelet_networks.nn",
-        "wavelet_networks.nn.functional",
+        "eerie",
+        "eerie.bsplines",
+        "eerie.groups",
+        "eerie.nn",
+        "eerie.nn.functional",
     ],
     install_requires=[
         "torch",
